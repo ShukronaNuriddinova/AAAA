@@ -1,4 +1,6 @@
 
+//// 9 Баллов!
+
 DROP TABLE IF EXISTS public.bond_quotes;
 
 CREATE TABLE public.bond_quotes
